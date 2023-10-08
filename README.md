@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hola 👋, I'm Sreejith</h1>
 <h3 align="center">A passionate AI developer from India</h3>

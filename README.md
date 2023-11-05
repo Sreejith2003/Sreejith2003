@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreejithsuresh" alt="sreejithsuresh" /></a> </p>
 
-- 📫 How to reach me **sreejith20off@gmail.com**
+- 📫 Reach me through **sreejith20off@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sreejithsuresh-40864b255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreejithsuresh" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sreejithsuresh-40864b255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sreejith S" height="30" width="40" /></a>
 <a href="https://instagram.com/_quiet__devil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_quiet__devil_" height="30" width="40" /></a>
 </p>
 

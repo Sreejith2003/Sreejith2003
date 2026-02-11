@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Sreejith</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">A passionate AI/ML developer from India</h3>
 <img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1358/1*IRGHmiGsa16stedQvIaZfw.gif" style="border-radius: 20;">
 
 
